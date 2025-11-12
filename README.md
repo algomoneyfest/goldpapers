@@ -34,5 +34,5 @@ Agregando: Paper_01.pdf
 ✅ all PDFs merged here: merged_books.pdf
 
 ## 📜 License
-Free for educational and research use. Attribution appreciated. - I am just a magical student. Follow me on X: Amoneyfest
+Free for educational and research use. Attribution appreciated. - I am just a magical student. Follow me on X: @Amoneyfest
 
